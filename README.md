@@ -40,5 +40,5 @@ pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
 
-##  `Author`
+## `Author`
 *Paras Bhegade*
